@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Distribution / packaging
+.Python
+env/
+venv/
+lib/python*/site-packages/
+.venv/
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+*.bak
+*.swo
+
+# OS generated files
+.DS_Store
+.Trashes
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Virtual environment files
+# (often specific to the project, so can be customized)
+# For example, if your virtual environment is named 'myenv':
+# myenv/
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+
+# PyInstaller / Nuitka / cx_Freeze
+# These are often used for creating executables and can generate large build artifacts.
+build/
+dist/
+*.spec
